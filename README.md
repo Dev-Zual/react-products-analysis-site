@@ -2,10 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
--frist i'm create react app
--then i'm install all dependency file (tailwind,rechart,router)
--then i setup the router in my projects
--then call all routes
+- frist i'm create react app
+- then i'm install all dependency file (tailwind,rechart,router)
+- then i setup the router in my projects
+- then call all routes
 
 ## Available Scripts
 
