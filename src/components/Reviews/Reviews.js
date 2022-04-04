@@ -7,7 +7,7 @@ const Reviews = () => {
   return (
     <div>
       <h1 className="text-4xl mt-11 font-semibold text-center">
-        <h1 className="text-4xl mb-8 mt-11 font-semibold text-center">
+        <h1 className="text-4xl mb-8 mt-11 text-sky-500 font-semibold text-center">
           See What Our Customer Says!!!
         </h1>
       </h1>
