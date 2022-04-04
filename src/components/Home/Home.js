@@ -34,7 +34,7 @@ const Home = () => {
       </div>
       <section className="w-3/4 mx-auto mt-10">
         <h1 className="text-4xl mt-11 font-semibold text-center">
-          Customer Review
+          Customer Reviews
         </h1>
         <div className="grid md:grid-cols-3 gap-6 mt-7">
           {sliceComments.map((comment) => (
@@ -44,7 +44,7 @@ const Home = () => {
         <div className="flex justify-center mb-8">
           <Link to="/reviews">
             <button className="bg-red-300 text-white font-bold py-1 rounded mt-6 px-7">
-              See All Review
+              See All Reviews
             </button>
           </Link>
         </div>
