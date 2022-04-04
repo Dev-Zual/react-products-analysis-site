@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import useComments from '../../hooks/useComments';
 import HomeReview from '../HomeReview/HomeReview';
 
@@ -41,9 +42,11 @@ const Home = () => {
           ))}
         </div>
         <div className="flex justify-center mb-8">
-          <button className="bg-red-300 text-white font-bold py-1 rounded mt-6 px-7">
-            See All Comments
-          </button>
+          <Link to="/reviews">
+            <button className="bg-red-300 text-white font-bold py-1 rounded mt-6 px-7">
+              See All Review
+            </button>
+          </Link>
         </div>
       </section>
     </div>
