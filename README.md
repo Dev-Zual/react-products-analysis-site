@@ -1,6 +1,8 @@
 # This is my Apple Laptop Shop
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live site Link: [https://my-apple-laptop-shop.netlify.app/](https://my-apple-laptop-shop.netlify.app/).
+
+Repository Link: [https://github.com/programming-hero-web-course-4/product-analysis-website-Dev-Zual](https://github.com/programming-hero-web-course-4/product-analysis-website-Dev-Zual)
 
 - frist i'm create react app
 - then i'm install all dependency file (tailwind,rechart,router)
